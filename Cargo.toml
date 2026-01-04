@@ -1,0 +1,10 @@
+[package]
+name = "lab_db"
+version = "0.0.1"
+edition = "2024"
+rust-version = "1.92.0"
+authors = ["Nevals Wandervals <nevals.wandervals@yandex.ru>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[dependencies]
